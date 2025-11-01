@@ -166,7 +166,7 @@ export default function App() {
             <div className="w-48 h-48 rounded-full gradient-border-profile overflow-hidden shadow-xl shadow-[#00C9FF]/50 flex items-center justify-center transform hover:scale-[1.05] transition duration-500">
               <img
                 src="/src/assets/akshit.jpg"
-                alt="Akshit Profile"
+                alt="akshit.jpg"
                 className="w-full h-full object-cover rounded-full"
               />
             </div>
